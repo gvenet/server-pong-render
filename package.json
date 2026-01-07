@@ -1,0 +1,15 @@
+{
+  "name": "pong-server",
+  "version": "1.0.0",
+  "description": "Serveur WebSocket pour Pong multijoueur",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.19.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
